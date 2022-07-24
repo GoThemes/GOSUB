@@ -1,0 +1,17 @@
+{
+  "name": "gosub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "watch:sass": "node-sass sass/style.scss css/style.css -w"
+  },
+  "keywords": [
+    "pricing card"
+  ],
+  "author": "elevenMou",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
